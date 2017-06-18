@@ -1,0 +1,20 @@
+Unity|C:\Program Files\Unity\Editor/Unity.exe
+Discord|C:\Users\Amr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Hammer & Chisel, Inc/Discord.lnk
+blackboard|"https://blackboard.aucegypt.edu/webapps/login/"
+wordpad|wordpad.exe
+calculator|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Calculator.exe
+notepad|notepad.exe
+paint|mspaint.exe
+Battlenet|C:\Program Files (x86)\Battle.net\Battle.net Launcher.exe
+youtube|"https://www.youtube.com/"
+VisualStudio|devenv.exe
+OOPfolder|C:\Users\Amr\Desktop\Fall 2016\Object Oriented Programming
+Fall16folder|C:\Users\Amr\Desktop\Fall 2016
+Steam|C:\Program Files (x86)\Steam\Steam.exe
+Gmail|"https://mail.google.com/mail/u/0/#inbox"
+MasterPlan|"http://totallycalculated.com"
+totallycalculated|"http://totallycalculated.com"
+SystemTemperature|C:\Program Files\CPUID\HWMonitor\HWMonitor.exe
+Prototype|C:\Users\Amr\Desktop\TC Games\Sandwich\LaneCraft Prototyping\Assets\Scenes\PT/PT Rigid.unity
+ResourceMonitor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk
+VirtualPiano|http://virtualpiano.net/
